@@ -1,4 +1,4 @@
-### Hi there 👋, Meu nome é Fernando Sergio Silva Gaspar
+### Olá 👋, Meu nome é Fernando Sergio Silva Gaspar
 
 - Sou desenvolvedor Web full-stack Jr
 - Recode Pro
