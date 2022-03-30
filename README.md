@@ -1,4 +1,12 @@
-### Hi there 👋, my name is FERNANDO GASPAR
+### Hi there 👋, Meu nome é Fernando Sergio Silva Gaspar
+
+- Sou desenvolvedor Web full-stack Jr
+- Recode Pro
+- Linguagens - Javascript / Java / C# 
+- Frameworks e Libs - React / Spring / Bootstrap
+- Meu Linkedin - https://www.linkedin.com/in/fernando-gaspar-b52a23b4/
+
+
 ![Profile views](https://gpvc.arturio.dev/FernandoGasparr)
 
 <div align="center">
